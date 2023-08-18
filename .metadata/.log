@@ -105,3 +105,6 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:26:27.597
 !MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-08-18 17:33:03.261
+!MESSAGE Can't connect to any repository: 
