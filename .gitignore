@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,java,eclipse
+=======
+# Created by https://www.toptal.com/developers/gitignore/api/linux,eclipse,java
+# Edit at https://www.toptal.com/developers/gitignore?templates=linux,eclipse,java
+>>>>>>> 20c233898d4d63562986fa40d89dbce4f9a5dd32
 
 ### Eclipse ###
 .metadata
@@ -93,6 +98,7 @@ local.properties
 hs_err_pid*
 replay_pid*
 
+<<<<<<< HEAD
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
@@ -120,3 +126,22 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,java,eclipse
+=======
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+# End of https://www.toptal.com/developers/gitignore/api/linux,eclipse,java
+
+>>>>>>> 20c233898d4d63562986fa40d89dbce4f9a5dd32
