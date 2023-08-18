@@ -45,3 +45,63 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:03:18.742
 !MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2023-08-18 17:20:40.771
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2023-08-18 17:20:40.772
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.preview.adapter.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2023-08-18 17:20:40.772
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.jst.server.tomcat.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2023-08-18 17:20:40.773
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.http.core.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2023-08-18 17:20:40.773
+!MESSAGE Project facet wst.jsdt.web has not been defined. It is used in plugin org.eclipse.wst.server.preview.adapter.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:21:59.181
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:23:29.464
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:23:38.438
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:24:12.523
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:25:28.548
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:25:45.576
+!MESSAGE Classpath changed for project: thisisjava
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-18 17:25:59.424
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\JWorkspace\sts-4.19.1.RELEASE 17\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.7.v20230425-1502\jre\bin\javaw.exe
+-cp
+D:\JWorkspace\sts-4.19.1.RELEASE 17\plugins\org.springframework.tooling.boot.ls_1.48.0.202308011907\servers\spring-boot-language-server\BOOT-INF\classes;D:\JWorkspace\sts-4.19.1.RELEASE 17\plugins\org.springframework.tooling.boot.ls_1.48.0.202308011907\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Dlsp.completions.indentation.enable=true
+-Xmx1024m
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:D:\JWorkspace\sts-4.19.1.RELEASE 17\plugins\org.springframework.tooling.boot.ls_1.48.0.202308011907\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=D:/JWorkspace/Jworkspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1692347159424
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:25:59.425
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2023-08-18 17:25:59.429
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 2028
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2023-08-18 17:26:27.597
+!MESSAGE Classpath changed for project: thisisjava
